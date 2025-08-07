@@ -9,6 +9,6 @@ Most of the datasets used are either created by me or simplified versions design
 | Project Name                 | Field                             | Description |
 | ---------------------------- | --------------------------------- | ----------- |
 | [**Count-Objects-Regression**](https://github.com/MajedTB/ML-Projects/tree/main/Count-Objects-Regression) | Computer Vision                   | An experimental approach to count objects in images using a pretrained CNN followed by simple regression layers. No object detection or density maps are involved - the model directly predicts the count. |
-| **Arabic-Text-Dottization**  | Natural Language Processing (NLP) | A sequence modeling task aiming to restore diacritic dots to Arabic text. The model learns to predict dotted characters from undotted input using character-level sequential modeling. |
+| [**Arabic-Text-Dottization**](https://github.com/MajedTB/ML-thoughts-experiments/tree/main/Arabic-Text-Dottization)  | Natural Language Processing (NLP) | A sequence modeling task aiming to restore diacritic dots to Arabic text. The model learns to predict dotted characters from undotted input using character-level sequential modeling. |.
 
-
+There are more to come whenever I have an idea to try.
